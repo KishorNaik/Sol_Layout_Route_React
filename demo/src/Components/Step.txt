@@ -1,0 +1,23 @@
+Step 1
+Install React router package
+npm install --save-dev react-router react-router-dom  @types/react-router @types/react-router-dom
+
+Step 2
+Create a Components folder.
+
+Step 3
+Create a Layout folder.
+
+Step 4
+Inside the layout folder, create a Root.tsx file. [Check Source Code].
+
+
+Create a Header.tsx file, [Check Source Code]
+
+Create a Home.tsx file. [Check Source Code]
+
+Create a User.tsx file [Check Source Code]
+
+
+Call Root element inside the Index.tsx [Check Source Code]
+
